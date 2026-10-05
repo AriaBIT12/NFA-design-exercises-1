@@ -5,4 +5,4 @@ which problem(s) surprised you with a "gold-st-ring"? Which next state(s) did yo
 I did not account for every state that could be reached at the same time when creating the subset of next states. I was thinking about one possible path instead of all possible NFA paths. But with practice, I think this will be less of a problem for me. As mentioned above, I also need to keep a better lookout for cases that are impossible, like problem 8\.
 
 Other insights/comments/questions that you want the grader/instructor to know.  
-N/A
+I had a lot of issues trying to figure out the md files and all of my images ended up getting reshuffled so while all are in the file, they are out of order.
